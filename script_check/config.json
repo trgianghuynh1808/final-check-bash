@@ -1,0 +1,4 @@
+{
+  "backend": "yarn build",
+  "frontend": "yarn lint && yarn tsc-check && yarn build"
+}
