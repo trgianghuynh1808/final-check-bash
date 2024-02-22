@@ -12,7 +12,6 @@ echo "-------Step 1: Check Spelling-------"
 
 # get git changed files
 changed_files=$(git diff --name-only $compare_branch)
-echo "$changed_files"
 
 # run cspell check for changed files
 report_file_path="$runner_path/out/issue_report.txt"
