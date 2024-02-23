@@ -1,109 +1,564 @@
 {
-    "issues": [],
+    "issues": [
+        {
+            "text": "tiết",
+            "offset": 1382,
+            "line": {
+                "text": "      title: 'Chi tiết',\n",
+                "offset": 1364
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 56,
+            "col": 19,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/navigator/stack.tsx",
+            "context": {
+                "text": "      title: 'Chi tiết',",
+                "offset": 1364
+            }
+        },
+        {
+            "text": "Trang",
+            "offset": 1230,
+            "line": {
+                "text": "          tabBarLabel: 'Trang chủ',\n",
+                "offset": 1206
+            },
+            "length": 5,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 42,
+            "col": 25,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/navigator/tab.tsx",
+            "context": {
+                "text": "          tabBarLabel: 'Trang chủ',",
+                "offset": 1206
+            }
+        },
+        {
+            "text": "Chuyến",
+            "offset": 1572,
+            "line": {
+                "text": "          tabBarLabel: 'Chuyến',\n",
+                "offset": 1548
+            },
+            "length": 6,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 53,
+            "col": 25,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/navigator/tab.tsx",
+            "context": {
+                "text": "          tabBarLabel: 'Chuyến',",
+                "offset": 1548
+            }
+        },
+        {
+            "text": "phép",
+            "offset": 1888,
+            "line": {
+                "text": "      Alert.alert('Cho phép sử dụng Camera trên thiết bị của bạn');\n",
+                "offset": 1865
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 61,
+            "col": 24,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/screens/ScannerScreen/index.tsx",
+            "context": {
+                "text": "      Alert.alert('Cho phép sử dụng Camera trên thiết bị của bạn');",
+                "offset": 1865
+            }
+        },
+        {
+            "text": "dụng",
+            "offset": 1896,
+            "line": {
+                "text": "      Alert.alert('Cho phép sử dụng Camera trên thiết bị của bạn');\n",
+                "offset": 1865
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 61,
+            "col": 32,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/screens/ScannerScreen/index.tsx",
+            "context": {
+                "text": "      Alert.alert('Cho phép sử dụng Camera trên thiết bị của bạn');",
+                "offset": 1865
+            }
+        },
+        {
+            "text": "trên",
+            "offset": 1908,
+            "line": {
+                "text": "      Alert.alert('Cho phép sử dụng Camera trên thiết bị của bạn');\n",
+                "offset": 1865
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 61,
+            "col": 44,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/screens/ScannerScreen/index.tsx",
+            "context": {
+                "text": "      Alert.alert('Cho phép sử dụng Camera trên thiết bị của bạn');",
+                "offset": 1865
+            }
+        },
+        {
+            "text": "thiết",
+            "offset": 1913,
+            "line": {
+                "text": "      Alert.alert('Cho phép sử dụng Camera trên thiết bị của bạn');\n",
+                "offset": 1865
+            },
+            "length": 5,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 61,
+            "col": 49,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/screens/ScannerScreen/index.tsx",
+            "context": {
+                "text": "      Alert.alert('Cho phép sử dụng Camera trên thiết bị của bạn');",
+                "offset": 1865
+            }
+        },
+        {
+            "text": "Tổng",
+            "offset": 1274,
+            "line": {
+                "text": "        <Text style={styles.title}>Tổng thu nhập</Text>\n",
+                "offset": 1239
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 39,
+            "col": 36,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverIncome.tsx",
+            "context": {
+                "text": "        <Text style={styles.title}>Tổng thu nhập</Text>",
+                "offset": 1239
+            }
+        },
+        {
+            "text": "nhập",
+            "offset": 1283,
+            "line": {
+                "text": "        <Text style={styles.title}>Tổng thu nhập</Text>\n",
+                "offset": 1239
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 39,
+            "col": 45,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverIncome.tsx",
+            "context": {
+                "text": "        <Text style={styles.title}>Tổng thu nhập</Text>",
+                "offset": 1239
+            }
+        },
+        {
+            "text": "tiền",
+            "offset": 2904,
+            "line": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo\n",
+                "offset": 2885
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 84,
+            "col": 20,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverIncome.tsx",
+            "context": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo",
+                "offset": 2885
+            }
+        },
+        {
+            "text": "mang",
+            "offset": 2913,
+            "line": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo\n",
+                "offset": 2885
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 84,
+            "col": 29,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverIncome.tsx",
+            "context": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo",
+                "offset": 2885
+            }
+        },
+        {
+            "text": "tính",
+            "offset": 2918,
+            "line": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo\n",
+                "offset": 2885
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 84,
+            "col": 34,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverIncome.tsx",
+            "context": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo",
+                "offset": 2885
+            }
+        },
+        {
+            "text": "chất",
+            "offset": 2923,
+            "line": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo\n",
+                "offset": 2885
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 84,
+            "col": 39,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverIncome.tsx",
+            "context": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo",
+                "offset": 2885
+            }
+        },
+        {
+            "text": "tham",
+            "offset": 2928,
+            "line": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo\n",
+                "offset": 2885
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 84,
+            "col": 44,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverIncome.tsx",
+            "context": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo",
+                "offset": 2885
+            }
+        },
+        {
+            "text": "khảo",
+            "offset": 2933,
+            "line": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo\n",
+                "offset": 2885
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 84,
+            "col": 49,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverIncome.tsx",
+            "context": {
+                "text": "              * Số tiền chỉ mang tính chất tham khảo",
+                "offset": 2885
+            }
+        },
+        {
+            "text": "Phiên",
+            "offset": 2282,
+            "line": {
+                "text": "      <Text style={styles.info}>Phiên làm việc</Text>\n",
+                "offset": 2250
+            },
+            "length": 5,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 89,
+            "col": 33,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverWorkingSession.tsx",
+            "context": {
+                "text": "      <Text style={styles.info}>Phiên làm việc</Text>",
+                "offset": 2250
+            }
+        },
+        {
+            "text": "việc",
+            "offset": 2292,
+            "line": {
+                "text": "      <Text style={styles.info}>Phiên làm việc</Text>\n",
+                "offset": 2250
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 89,
+            "col": 43,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverWorkingSession.tsx",
+            "context": {
+                "text": "      <Text style={styles.info}>Phiên làm việc</Text>",
+                "offset": 2250
+            }
+        },
+        {
+            "text": "thúc",
+            "offset": 2580,
+            "line": {
+                "text": "              Kết thúc: {formatDateTime(currentSession?.expired_at)}\n",
+                "offset": 2562
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 97,
+            "col": 19,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverWorkingSession.tsx",
+            "context": {
+                "text": "              Kết thúc: {formatDateTime(currentSession?.expired_at)}",
+                "offset": 2562
+            }
+        },
+        {
+            "text": "thúc",
+            "offset": 3149,
+            "line": {
+                "text": "            !isExistCurrentSession ? 'Bắt đầu' : 'Kết thúc'\n",
+                "offset": 3095
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 115,
+            "col": 55,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverWorkingSession.tsx",
+            "context": {
+                "text": "            !isExistCurrentSession ? 'Bắt đầu' : 'Kết thúc'",
+                "offset": 3095
+            }
+        },
+        {
+            "text": "phiên",
+            "offset": 3167,
+            "line": {
+                "text": "          } phiên làm việc`}\n",
+                "offset": 3155
+            },
+            "length": 5,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 116,
+            "col": 13,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverWorkingSession.tsx",
+            "context": {
+                "text": "          } phiên làm việc`}",
+                "offset": 3155
+            }
+        },
+        {
+            "text": "việc",
+            "offset": 3177,
+            "line": {
+                "text": "          } phiên làm việc`}\n",
+                "offset": 3155
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 116,
+            "col": 23,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverWorkingSession.tsx",
+            "context": {
+                "text": "          } phiên làm việc`}",
+                "offset": 3155
+            }
+        },
+        {
+            "text": "phương",
+            "offset": 1279,
+            "line": {
+                "text": "    { label: 'Trả phương tiện', value: item.id },\n",
+                "offset": 1261
+            },
+            "length": 6,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 41,
+            "col": 19,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/VehicleCardItem.tsx",
+            "context": {
+                "text": "    { label: 'Trả phương tiện', value: item.id },",
+                "offset": 1261
+            }
+        },
+        {
+            "text": "tiện",
+            "offset": 1286,
+            "line": {
+                "text": "    { label: 'Trả phương tiện', value: item.id },\n",
+                "offset": 1261
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 41,
+            "col": 26,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/VehicleCardItem.tsx",
+            "context": {
+                "text": "    { label: 'Trả phương tiện', value: item.id },",
+                "offset": 1261
+            }
+        },
+        {
+            "text": "Loại",
+            "offset": 2043,
+            "line": {
+                "text": "                    <Text style={styles.text}>Loại: </Text>\n",
+                "offset": 1997
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 64,
+            "col": 47,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/VehicleCardItem.tsx",
+            "context": {
+                "text": "                    <Text style={styles.text}>Loại: </Text>",
+                "offset": 1997
+            }
+        },
+        {
+            "text": "Phương",
+            "offset": 1441,
+            "line": {
+                "text": "      <Text style={styles.title}>Phương tiện</Text>\n",
+                "offset": 1408
+            },
+            "length": 6,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 56,
+            "col": 34,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/VehicleSession.tsx",
+            "context": {
+                "text": "      <Text style={styles.title}>Phương tiện</Text>",
+                "offset": 1408
+            }
+        },
+        {
+            "text": "tiện",
+            "offset": 1448,
+            "line": {
+                "text": "      <Text style={styles.title}>Phương tiện</Text>\n",
+                "offset": 1408
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 56,
+            "col": 41,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/VehicleSession.tsx",
+            "context": {
+                "text": "      <Text style={styles.title}>Phương tiện</Text>",
+                "offset": 1408
+            }
+        },
+        {
+            "text": "phương",
+            "offset": 1739,
+            "line": {
+                "text": "          title={'Yêu cầu phương tiện'}\n",
+                "offset": 1713
+            },
+            "length": 6,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 65,
+            "col": 27,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/VehicleSession.tsx",
+            "context": {
+                "text": "          title={'Yêu cầu phương tiện'}",
+                "offset": 1713
+            }
+        },
+        {
+            "text": "tiện",
+            "offset": 1746,
+            "line": {
+                "text": "          title={'Yêu cầu phương tiện'}\n",
+                "offset": 1713
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 65,
+            "col": 34,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/VehicleSession.tsx",
+            "context": {
+                "text": "          title={'Yêu cầu phương tiện'}",
+                "offset": 1713
+            }
+        },
+        {
+            "text": "Không",
+            "offset": 258,
+            "line": {
+                "text": "      <Text style={t.m2}>Không tìm thấy Camera</Text>\n",
+                "offset": 233
+            },
+            "length": 5,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 9,
+            "col": 26,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/ScannerScreen/CameraNotFound.tsx",
+            "context": {
+                "text": "      <Text style={t.m2}>Không tìm thấy Camera</Text>",
+                "offset": 233
+            }
+        },
+        {
+            "text": "thấy",
+            "offset": 268,
+            "line": {
+                "text": "      <Text style={t.m2}>Không tìm thấy Camera</Text>\n",
+                "offset": 233
+            },
+            "length": 4,
+            "isFlagged": false,
+            "isFound": false,
+            "row": 9,
+            "col": 36,
+            "uri": "file:///mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/ScannerScreen/CameraNotFound.tsx",
+            "context": {
+                "text": "      <Text style={t.m2}>Không tìm thấy Camera</Text>",
+                "offset": 233
+            }
+        }
+    ],
     "info": [],
     "debug": [],
     "error": [],
     "progress": [],
     "result": {
-        "files": 0,
-        "filesWithIssues": [],
-        "issues": 0,
+        "files": 28,
+        "filesWithIssues": [
+            "/mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/navigator/stack.tsx",
+            "/mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/navigator/tab.tsx",
+            "/mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/screens/ScannerScreen/index.tsx",
+            "/mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverIncome.tsx",
+            "/mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/DriverWorkingSession.tsx",
+            "/mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/VehicleCardItem.tsx",
+            "/mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/HomeScreen/VehicleSession.tsx",
+            "/mnt/a88a1648-f54d-4237-bea2-9bc21cfd3cdb/projects/final-check-bash/temp/src/ui/screens/ScannerScreen/CameraNotFound.tsx"
+        ],
+        "issues": 30,
         "errors": 0,
         "cachedFiles": 0
     }
 }
-Usage: cspell lint [options] [globs...] [file://<path> ...] [stdin[://<path>]]
-
-Patterns:
- - [globs...]            Glob Patterns
- - [stdin]               Read from "stdin" assume text file.
- - [stdin://<path>]      Read from "stdin", use <path> for file type and config.
- - [file://<path>]       Check the file at <path>
-
-Examples:
-    cspell .                        Recursively check all files.
-    cspell lint .                   The same as "cspell ."
-    cspell "*.js"                   Check all .js files in the current directory
-    cspell "**/*.js"                Check all .js files recursively
-    cspell "src/**/*.js"            Only check .js under src
-    cspell "**/*.txt" "**/*.js"     Check both .js and .txt files.
-    cspell "**/*.{txt,js,md}"       Check .txt, .js, and .md files.
-    cat LICENSE | cspell stdin      Check stdin
-    cspell stdin://docs/doc.md      Check stdin as if it was "./docs/doc.md"
-
-Check spelling
-
-Options:
-  -c, --config <cspell.json>   Configuration file to use.  By default cspell
-                               looks for cspell.json in the current directory.
-  -v, --verbose                Display more information about the files being
-                               checked and the configuration.
-  --locale <locale>            Set language locales. i.e. "en,fr" for English
-                               and French, or "en-GB" for British English.
-  --language-id <language>     Force programming language for unknown
-                               extensions. i.e. "php" or "scala"
-  --words-only                 Only output the words not found in the
-                               dictionaries.
-  -u, --unique                 Only output the first instance of a word not
-                               found in the dictionaries.
-  -e, --exclude <glob>         Exclude files matching the glob pattern. This
-                               option can be used multiple times to add
-                               multiple globs.
-  --file-list <path or stdin>  Specify a list of files to be spell checked. The
-                               list is filtered against the glob file patterns.
-                               Note: the format is 1 file path per line.
-  --no-issues                  Do not show the spelling errors.
-  --no-progress                Turn off progress messages
-  --no-summary                 Turn off summary message in console.
-  -s, --silent                 Silent mode, suppress error messages.
-  --no-exit-code               Do not return an exit code if issues are found.
-  --quiet                      Only show spelling issues or errors.
-  --fail-fast                  Exit after first file with an issue or error.
-  -r, --root <root folder>     Root directory, defaults to current directory.
-  --no-relative                Issues are displayed with absolute path instead
-                               of relative to the root.
-  --show-context               Show the surrounding text around an issue.
-  --show-suggestions           Show spelling suggestions.
-  --no-show-suggestions        Do not show spelling suggestions or fixes.
-  --no-must-find-files         Do not error if no files are found.
-  --cache                      Use cache to only check changed files.
-  --no-cache                   Do not use cache.
-  --cache-reset                Reset the cache file.
-  --cache-strategy <strategy>  Strategy to use for detecting changed files.
-                               (choices: "metadata", "content")
-  --cache-location <path>      Path to the cache file or directory. (default:
-                               ".cspellcache")
-  --dot                        Include files and directories starting with `.`
-                               (period) when matching globs.
-  --gitignore                  Ignore files matching glob patterns found in
-                               .gitignore files.
-  --no-gitignore               Do NOT use .gitignore files.
-  --gitignore-root <path>      Prevent searching for .gitignore files past
-                               root.
-  --validate-directives        Validate in-document CSpell directives.
-  --no-validate-directives     Do not validate in-document CSpell directives.
-  --no-color                   Turn off color.
-  --color                      Force color.
-  --no-default-configuration   Do not load the default configuration and
-                               dictionaries.
-  --debug                      Output information useful for debugging
-                               cspell.json files.
-  --reporter <module|path>     Specify one or more reporters to use.
-  -h, --help                   display help for command
-
-More Examples:
-
-    cspell "**/*.js" --reporter @cspell/cspell-json-reporter
-        This will spell check all ".js" files recursively and use
-        "@cspell/cspell-json-reporter".
-
-    cspell . --reporter default
-        This will force the default reporter to be used overriding
-        any reporters defined in the configuration.
-
-    cspell . --reporter ./<path>/reporter.cjs
-        Use a custom reporter. See API for details.
-
-References:
-    https://cspell.org
-    https://github.com/streetsidesoftware/cspell

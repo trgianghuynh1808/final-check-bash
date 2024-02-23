@@ -1,0 +1,12 @@
+{
+  "name": "final-check-bash",
+  "version": "1.0.0",
+  "description": "- CSpell Ref:   https://cspell.org/docs/getting-started/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

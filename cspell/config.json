@@ -3,11 +3,24 @@
   "version": "0.2",
   "dictionaryDefinitions": [
     {
-      "name": "backend_words",
-      "path": "./dictionaries/backend-words.txt",
+      "name": "nodejs_words",
+      "path": "./dictionaries/nodejs-words.txt",
+      "addWords": true
+    },
+    {
+      "name": "react-native_words",
+      "path": "./dictionaries/react-native_words.txt",
       "addWords": true
     }
   ],
-  "dictionaries": ["backend_words"],
-  "ignorePaths": ["./dictionaries/backend-words.txt"]
+  "dictionaries": ["nodejs_words", "react-native_words"],
+  "ignorePaths": [
+    "./dictionaries/**",
+    "../temp/android/**",
+    "../temp/ios/**",
+    "../temp/yarn.lock",
+    "../temp/**/**.json",
+    "../temp/**/constants/**",
+    "../temp/**/constants.**"
+  ]
 }
