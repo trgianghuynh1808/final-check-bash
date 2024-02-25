@@ -13,6 +13,8 @@ echo "*******Final Checking*******"
 #### phase 1: check spelling
 echo "-------Step 1: Check Spelling-------"
 
+runner_path=$(pwd)
+
 # create temp dir to clone content
 mkdir temp
 
@@ -23,7 +25,8 @@ cd $destination_path
 changed_files=$(git diff --diff-filter=AM --name-only $compare_branch)
 
 # clone source to temp
-temp_path="../$runner_folder/temp"
+temp_path="$runner_path/temp"
+
 for file in $changed_files; do
 	dir_name=$(dirname $file)
 
@@ -44,7 +47,7 @@ for file in $changed_files; do
 done
 
 # cd to runner temp
-cd ../$runner_folder
+cd $runner_path
 
 # run cspell check for changed files
 report_file_path="./out/issue_report.txt"
