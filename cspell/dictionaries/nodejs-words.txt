@@ -4,3 +4,6 @@ multistream
 kafkajs
 Partitioners
 Partitioner
+geolocation
+geolocations
+
